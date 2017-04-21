@@ -1,0 +1,112 @@
+{
+    "feeds": [
+        {  
+            "Id":61,
+            "Title":"N\u00e5 kan du beskj\u00e6re dine bilder!",
+            "FeedBody":"<div class=\"ExternalClass362D35CA1F2645FD853200FB67891DE0\"><p>Vi introduserer en spennede funksjonalitet som du blant annet vil kjenne igjen fra instagram! God beskj\u00e6ring!</p>\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-6",
+            "Created":"2016-05-30T08:31:05Z",
+            "AuthorId":22,
+            "FeedImage": "/images/bilde1.png",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":66,
+            "Title":"\u00c5rets firmatur g\u00e5r til Island!",
+            "FeedBody":"<div class=\"ExternalClass46E8BBA0F3B14A7EB4089645C8C451A1\"><p>Om du ikke allerede har gjort det er det p\u00e5 h\u00f8y tid \u00e5 markere denne helgen i kalenderen, samt melde deg p\u00e5 \u00f8nsket aktivitet</p>\r\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-2",
+            "Created":"2016-06-01T07:11:33Z",
+            "AuthorId":22,
+            "FeedImage": "/images/bilde2.png",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":68,
+            "Title":"Point Taken i media",
+            "FeedBody":"<div class=\"ExternalClass7FE55B1F422043EEBEDE076751CC8918\"><p><a href=\"http&#58;//www.terrengsykkel.no/Telex/Hem-vant-Terrengsykkelrittet\">http&#58;//www.terrengsykkel.no/Telex/Hem-vant-Terrengsykkelrittet</a></p>\n\n<p>&#160;</p>\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-2",
+            "Created":"2016-06-01T08:33:42Z",
+            "AuthorId":10,
+            "FeedImage": "/images/bilde3.png",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":89,
+            "Title":"Vi har \u00e5pnet en avdeling i Kristiansand!",
+            "FeedBody":"<div class=\"ExternalClass70D7E16DC2394CF4A5BC6B2269AE78AB\"><p>Thorbj\u00f8rn, Julian og \u00d8yvind er godt i gang p\u00e5 S\u00f8rlandet. Forrige uke var vi vertskap for Office 365 User Group.\u200b\u200b\u200b<br></p>\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-6",
+            "Created":"2016-09-01T10:32:27Z",
+            "AuthorId":22,
+            "FeedImage": "/images/bilde4.png",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":96,
+            "Title":"28. oktober er det IKT-NM i hjemmebrygging!",
+            "FeedBody":"<div class=\"ExternalClassBA6A30E1EF144723A675081271749C5B\"><p>Som regjerende mester stiller vi selvf\u00f8lgelig lag, Det blir stas! \u00c5rets bidrag har v\u00e6rt heftig disktuert, men at vi lander p\u00e5 en hyllest til humlen er det ingen tvil om\u200b</p>\r\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-5",
+            "Created":"2016-09-05T11:15:38Z",
+            "AuthorId":22,
+            "FeedImage": "/images/bilde5.png",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":98,
+            "Title":"Premier Partnes status",
+            "FeedBody":"<div class=\"ExternalClass5FD9BF1C8AAB41E3A0B99DC7FF09D7F1\"><p>Fra Nintex&#58;&#160;I am excited to let you know that PointTaken is confirmed as the first Nintex Premier Partner in Norway, the highest Partner level at Nintex! Congratulations to this great achievement from myself and the whole Nintex team.<br></p>\r\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-3",
+            "Created":"2016-09-05T11:37:45Z",
+            "AuthorId":22,
+            "FeedImage": "/images/bilde6.png",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":99,
+            "Title":"15. september er den store h\u00f8stfesten!",
+            "FeedBody":"<div class=\"ExternalClass6F138BD32E604BC082E7322A990C5473\"><p>Alle s\u00f8strene i Nova Consulting Group inviterer kunder, venner og samarbeidspartnere til&#160;den store h\u00f8stfesten 15. september&#160;p\u00e5 Lille Asia i Hegdehaugsveien.<br>\n<br>\nVi byr p\u00e5 god mat og drikke, underholdning og hyggelige folk \u00e5 sl\u00e5 av en prat med - om fag eller fjas.&#160;<a href=\"http&#58;//novacg.us11.list-manage.com/track/click?u=82d84fa87dbdda1d597484c96&amp;id=751d95443b&amp;e=9f3b11b262\">http&#58;//novacg.us11.list-manage.com/track/click?u=82d84fa87dbdda1d597484c96&amp;id=751d95443b&amp;e=9f3b11b262</a></p>\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-2",
+            "Created":"2016-09-05T11:43:20Z",
+            "AuthorId":22,
+            "FeedImage": "http://lorempixel.com/300/200/",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":112,
+            "Title":"Gaute forlenger med DSS",
+            "FeedBody":"<div class=\"ExternalClass76A01A19371E414F83A111EADEB3837C\"><p>I dag fikk vi beskjed om at Gaute forlenger oppdraget hos DSS hvor han holder kurs i Office 365&#160;for de fleste departementene.\u200b<br></p>\n</div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-3",
+            "Created":"2016-10-26T09:06:35Z",
+            "AuthorId":21,
+            "FeedImage": "http://lorempixel.com/300/200/",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        },
+        {  
+            "Id":116,
+            "Title":"Fagsamling",
+            "FeedBody":"<div class=\"ExternalClassBB430340D0784E57A33D15F64C6E3A50\"><p>\u200bTorsdag 30. mars har vi fagsamling.</p><p>Helge g\u00e5r igjennom de siste nyheter fra Office 365.<br>H\u00e5kon forteller om avviksprosjektet.</p><p>Vi har shuffleboards p\u00e5 Kulturhuset fra 19.00<br><br></p></div>",
+            "Fremhevet":false,
+            "FeedTheme":"newstheme-4",
+            "Created":"2016-10-26T10:17:06Z",
+            "AuthorId":21,
+            "FeedImage": "http://lorempixel.com/300/200/",
+            "Likes": [3, 2],
+            "Comments": [2, 3]
+        }
+    ]
+}
